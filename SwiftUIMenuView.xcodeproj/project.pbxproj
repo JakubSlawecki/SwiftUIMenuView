@@ -15,6 +15,7 @@
 		C6DD35D123FD221700C3FF89 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C6DD35CF23FD221700C3FF89 /* LaunchScreen.storyboard */; };
 		C6DD35D923FD237400C3FF89 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6DD35D823FD237400C3FF89 /* HomeView.swift */; };
 		C6DD35DB23FD238100C3FF89 /* MenuView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6DD35DA23FD238100C3FF89 /* MenuView.swift */; };
+		C6DD35DD23FD2CDE00C3FF89 /* SettingExampleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6DD35DC23FD2CDE00C3FF89 /* SettingExampleView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		C6DD35D223FD221700C3FF89 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C6DD35D823FD237400C3FF89 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 		C6DD35DA23FD238100C3FF89 /* MenuView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuView.swift; sourceTree = "<group>"; };
+		C6DD35DC23FD2CDE00C3FF89 /* SettingExampleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingExampleView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +67,7 @@
 				C6DD35C823FD221600C3FF89 /* ContentView.swift */,
 				C6DD35D823FD237400C3FF89 /* HomeView.swift */,
 				C6DD35DA23FD238100C3FF89 /* MenuView.swift */,
+				C6DD35DC23FD2CDE00C3FF89 /* SettingExampleView.swift */,
 				C6DD35CA23FD221700C3FF89 /* Assets.xcassets */,
 				C6DD35CF23FD221700C3FF89 /* LaunchScreen.storyboard */,
 				C6DD35D223FD221700C3FF89 /* Info.plist */,
@@ -154,6 +157,7 @@
 			files = (
 				C6DD35DB23FD238100C3FF89 /* MenuView.swift in Sources */,
 				C6DD35C523FD221600C3FF89 /* AppDelegate.swift in Sources */,
+				C6DD35DD23FD2CDE00C3FF89 /* SettingExampleView.swift in Sources */,
 				C6DD35D923FD237400C3FF89 /* HomeView.swift in Sources */,
 				C6DD35C723FD221600C3FF89 /* SceneDelegate.swift in Sources */,
 				C6DD35C923FD221600C3FF89 /* ContentView.swift in Sources */,
